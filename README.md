@@ -1,2 +1,2 @@
 # localhost-server
-setting started in the programming world
+getting started in the programming world
